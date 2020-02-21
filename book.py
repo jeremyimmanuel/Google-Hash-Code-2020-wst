@@ -1,6 +1,9 @@
 # hello this is book class ahaha 😸
 
 class Book:
+    '''
+    Book class
+    '''
     def __init__(self, bid, score):
         self.bid = bid
         self.score = score
